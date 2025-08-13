@@ -9,3 +9,6 @@ O JavaScript também pode ser usado para armazenar informações, como dados de 
 quando se fala em segurança e integridade de dados pessoais, a responsabilidade principal é do servidor do site (o "back-end"), pois é lá que os dados são protegidos e armazenados de forma
 segura. O JavaScript, por atuar no navegador do usuário, possui limitações de segurança e, se não for bem escrito, pode até criar vulnerabilidades.
 
+Aperecida Nutricionista
+
+O que foi montado no site seria que site para ajudar as pessoas com a nutriçãp adequada e o site foi mantado com as parte principais que séria tabelas con tendo informação dos paciente tipos de atendimento e adicinar novo paciente na lista de atendimento.
